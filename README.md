@@ -1,3 +1,3 @@
 # MIT-6.00-Spring-2011-
-Summarization and Interactive code for MIT 6.00 Spring 2011  lectures and recitations 
+Interactive code and Summary for MIT 6.00 Spring 2011  lectures and recitations  
 
