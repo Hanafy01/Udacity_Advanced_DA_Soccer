@@ -25,8 +25,8 @@ ___
 ## Lecturers & TAs
 
 ### The main lecturer of the course is ........ Prof. John Guttag 
-### ............................................................... Prof.  Eric Grimson  
-### ............................................................... And Three Great TAs who i unfortunately do not remember their names  
+### ...................................................................... Prof.  Eric Grimson  
+### ...................................................................... And Three Great TAs who i unfortunately do not remember their names  
 
 
 
