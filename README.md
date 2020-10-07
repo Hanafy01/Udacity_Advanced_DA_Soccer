@@ -19,7 +19,7 @@ ___
 ---
 
 ---
-#### the summary will contain python 3.8 compatible code .... but you will find the original code from lectures and recitations commented throughout the notebook 
+#### the summary will contain python 3.8 compatible code .... but you will find the original ~~obsolete~~ code from lectures and recitations commented throughout the notebook 
 
 
 ### Lecturers & TAs
