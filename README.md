@@ -4,10 +4,7 @@
 ---
 ---
 
-###  in my journey of learning python which the best tool for data science i found a youtube channel  which is popular that have great open-source lectures from MIT which you can find by just putting the title in youtube search bar .... but as viewer of this 
-###  useful channel i found that it takes lots of time to grasp the whole content of a video form handouts to essential content and 
-###  going back and forth from my notebook "IDE"  to the video ...... So i decided as a remote student of this course to share my 
-###  summarized version of the course as a notebook for every lecture  
+###  in my journey of learning python which the best tool for data science i found a youtube channel  which is popular that have great open-source lectures from MIT which you can find by just putting the title in youtube search bar .... but as viewer of this useful channel i found that it takes lots of time to grasp the whole content of a video form handouts to essential content and going back and forth from my notebook "IDE"  to the video ...... So i decided as a remote student of this course to share my summarized version of the course as a notebook for every lecture  
 ___
 ___
 
