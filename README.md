@@ -12,7 +12,7 @@ you can find most of them on Kaggle and the last one is on github
 
 I found this particular dataset interesting because this was my first time to deal with an sqlite file in Pandas and there are plenty of tables that you can practice your data wrangling and data cleaning capabilities on .. despite i am not a very big fan of soccer i loved this project because i learned so much from
 
-
+note : there are no files needed in this project but first you have to download the dataset from Kaggle [Here](https://www.kaggle.com/hugomathien/soccer) to get to work
 
 
 ## Contributions
