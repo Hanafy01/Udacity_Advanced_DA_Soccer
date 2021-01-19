@@ -17,7 +17,7 @@ I found this particular dataset interesting because this was my first time to de
 
 ## Contributions
 -----
-Any data student or data analyst who finds that he has the time to make some commits to add more questions with answers or suggest modification to the existing code in my ipy notebook i will be so appreciative -- just send me a message
+Any data student or data analyst who finds that he has the time to make some commits to add more questions with answers or suggest modification to the existing code in my ipy notebook i will be so appreciative -- just send me a message on Twitter with the commit details
 
 
 #### Dataset Description
