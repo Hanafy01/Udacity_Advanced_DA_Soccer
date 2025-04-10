@@ -2,7 +2,7 @@
 <a id='intro'></a>
 ## Introduction
 ----
-This was my actual submitted & completed project on Udacity Advanced Data Analysis - introduction Data analysis section -this dataset was chosen from many other:  
+this dataset was chosen from 5 different datasets :  
    - TMDb movie data
    - No show appointments
    - Gapminder World
