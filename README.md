@@ -54,7 +54,7 @@ You can easily find data about soccer matches but they are usually scattered acr
 ---
 ---
 ---
-### Questions to be answered in my EDA phase :
+### Questions to be answered in EDA phase :
 
 ### Questions about teams 
 
